@@ -154,3 +154,11 @@ main {
 .task .actions .delete {
 	color: crimson;
 }
+@media(max-width: 767px){
+    #new-task-submit{
+		margin-bottom: 15px;
+	}
+    body{
+        padding: 15px;
+    }
+}
